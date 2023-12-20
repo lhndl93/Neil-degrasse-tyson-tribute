@@ -1,0 +1,51 @@
+.main {
+  font-size: 16px;
+  color: #9055a2;
+  font-family: "Raleway", sans-serif;
+  margin: 0 auto;
+  background-color: #011638;
+  padding: 0;
+}
+
+hr {
+  border-color: #54546c;
+}
+
+h1,
+h2 {
+  margin-top: 0;
+  font-weight: 700;
+  color: #d499b9;
+  text-decoration: underline;
+}
+
+.container {
+  background-color: #2e294e;
+  padding-top: 40px;
+}
+
+.thumbnail {
+  margin-bottom: 0;
+  padding: 2px;
+  border-color: #d499b9;
+  background-color: #d499b9;
+}
+
+.date {
+  font-size: 14px;
+  color: #fff;
+}
+
+.highlight {
+  margin: 20px 0px 20px 0px;
+  background-color: #39335f;
+  padding-top: 15px;
+}
+
+.quotes {
+  font-size: 14px;
+}
+
+.quote-title {
+  margin-left: 15px;
+}
